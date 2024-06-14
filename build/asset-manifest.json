@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ogin_registration_react_basic/static/css/main.226ab5f8.css",
+    "main.js": "/ogin_registration_react_basic/static/js/main.fb6b1952.js",
+    "static/js/453.5ed10f8f.chunk.js": "/ogin_registration_react_basic/static/js/453.5ed10f8f.chunk.js",
+    "index.html": "/ogin_registration_react_basic/index.html",
+    "main.226ab5f8.css.map": "/ogin_registration_react_basic/static/css/main.226ab5f8.css.map",
+    "main.fb6b1952.js.map": "/ogin_registration_react_basic/static/js/main.fb6b1952.js.map",
+    "453.5ed10f8f.chunk.js.map": "/ogin_registration_react_basic/static/js/453.5ed10f8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.226ab5f8.css",
+    "static/js/main.fb6b1952.js"
+  ]
+}
