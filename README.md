@@ -1,3 +1,5 @@
+## [![License: APACHE2.0](https://img.shields.io/badge/License:_MIT-orange)](https://opensource.org/license/mit/)
+
 # Description
 
 This is a simple login and registration form app using React, jsx and CSS.
@@ -16,7 +18,7 @@ This is a simple login and registration form app using React, jsx and CSS.
 https://douglasmarsalis.github.io/login_registration_react_basic/
 
 ## Deployed Site Image
-
+<img width="1440" alt="Screenshot_login_registration" src="https://github.com/douglasmarsalis/login_registration_react_basic/assets/112460009/d648bb3e-b379-47e3-8d5d-9f31e21b05b2">
 
 
 ## License
